@@ -1,2 +1,2 @@
 # FCC-coding-portfolio
-A portfoilo of my web design projects
+A portfoilo of my web design and map projects
